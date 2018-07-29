@@ -1,0 +1,32 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="AppServers.DebugServer@ServersToolWindowContent#Toolbar" count="2" />
+      <entry action="Back@MainToolbar" count="7" />
+      <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="1" />
+      <entry action="ForceStepInto@DebuggerToolbar" count="7" />
+      <entry action="Maven.AddManagedFiles@Maven Navigator Toolbar" count="3" />
+      <entry action="Rerun@DebuggerToolbar" count="4" />
+      <entry action="Run@MainToolbar" count="6" />
+      <entry action="RunToCursor@DebuggerToolbar" count="1" />
+      <entry action="ShowExecutionPoint@DebuggerToolbar" count="3" />
+      <entry action="ShowProjectStructureSettings@MainToolbar" count="1" />
+      <entry action="ShowSettings@MainToolbar" count="11" />
+      <entry action="StepInto@DebuggerToolbar" count="49" />
+      <entry action="StepOut@DebuggerToolbar" count="5" />
+      <entry action="StepOver@DebuggerToolbar" count="84" />
+      <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="3" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@unknown" count="2" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="1" />
+      <entry action="com.intellij.ide.util.MemberChooser$CollapseAllAction@MemberChooser" count="2" />
+      <entry action="com.intellij.ide.util.MemberChooser$ExpandAllAction@MemberChooser" count="1" />
+      <entry action="com.intellij.ide.util.MemberChooser$SortEmAction@MemberChooser" count="2" />
+      <entry action="com.intellij.ide.util.gotoByName.ChooseByNameFilter$FilterAction@gotfile.filter" count="2" />
+      <entry action="com.intellij.javaee.deployment.ui.actions.OpenArtifactEditorAction@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$8@Keymap" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="10" />
+    </counts>
+  </component>
+</application>

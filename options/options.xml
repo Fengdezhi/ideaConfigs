@@ -1,0 +1,33 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.173" value="18" />
+    <property name="installed.kotlin.plugin.version" value="1.2.10-release-IJ2017.3-1" />
+    <property name="android-component-compatibility-check" value="1532767260249" />
+    <property name="PLUGIN_FILTER" value="maven" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="project.wizard.template" value="Java" />
+    <property name="file.chooser.recent.files" value="D:/Work_Program/apache-maven-3.3.9/conf/settings.xml&#10;D:/Work_Program/ideaWorkSpace/smart-book-code/chapter1/pom.xml&#10;D:/Work_Program/ideaWorkSpace/smart-book-code&#10;D:/Work_Program/ideaWorkSpace/projects/chapter1/pom.xml&#10;D:/Work_Program/ideaWorkSpace/projects&#10;D:/Work_Program/ideaWorkSpace&#10;C:/Program Files/Git/bin/git.exe&#10;C:/Program Files/Git/git-cmd.exe&#10;C:/Users/MACHENIKE/Desktop/Git-2.16.1-64-bit.exe&#10;D:/Work_Program/apache-tomcat-7.0.42&#10;D:/Work_Program/apache-maven-3.3.9&#10;D:/Work_Program/apache-maven-3.3.9/bin&#10;C:/Program Files/Java/jdk1.8.0_77" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="57" />
+    <property name="ts.lib.d.ts.version" value="2.6.2" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="file.gist.reindex.count" value="438" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="KEYMAP" value="" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10964912" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6232791" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.12253694" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.14044943" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.1635323" />
+    <property name="FrameworksFinderRecursivePanel[4]" value="0.19569471" />
+    <property name="SplitFileEditor.Proportion" value="0.7878303" />
+  </component>
+</application>

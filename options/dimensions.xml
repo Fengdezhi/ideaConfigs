@@ -1,0 +1,53 @@
+<application>
+  <component name="DimensionService">
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="238" y="129" />
+    <location key="#Plugins.0.0.1920.1080@120dpi" x="931" y="38" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="624" y="167" />
+    <location key="new project wizard.0.0.1920.1080@120dpi" x="1025" y="184" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="963" y="460" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="518" y="304" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080@120dpi" x="664" y="420" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1920.1080@120dpi" x="720" y="150" />
+    <location key="#Tomcat_Server.0.0.1920.1080@120dpi" x="708" y="437" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="413" y="152" />
+    <location key="#Tomcat.0.0.1920.1080@120dpi" x="585" y="43" />
+    <location key="Github.ShareDialog.0.0.1920.1080@120dpi" x="728" y="375" />
+    <location key="Github.UntrackedFilesDialog.0.0.1920.1080@120dpi" x="695" y="157" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080@120dpi" x="43" y="45" />
+    <location key="DiffContextDialog.0.0.1920.1080@120dpi" x="183" y="81" />
+    <location key="Vcs.Push.Dialog.0.0.1920.1080@120dpi" x="560" y="198" />
+    <location key="VcsDiffUtil.ChangesDialog.0.0.1920.1080@120dpi" x="658" y="277" />
+    <location key="git4idea.rebase.GitRebaseDialog.0.0.1920.1080@120dpi" x="722" y="345" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1080@120dpi" x="667" y="179" />
+    <location key="com.intellij.javaee.view.ServerArtifactsDialog.0.0.1920.1080@120dpi" x="529" y="150" />
+    <location key="#Project_Structure.0.0.1920.1080@120dpi" x="311" y="0" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080@120dpi" x="751" y="363" />
+    <location key="ProcessPopupWindow.0.0.1920.1080@120dpi" x="1183" y="822" />
+    <location key="find.popup.0.0.1920.1080@120dpi" x="478" y="94" />
+    <location key="GitCloneDialog.0.0.1920.1080@120dpi" x="743" y="405" />
+    <size key="new project wizard.0.0.1920.1080@120dpi" width="763" height="829" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1298" height="779" />
+    <size key="GotoFile_FileTypePopup.0.0.1920.1080@120dpi" width="237" height="246" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="1094" height="890" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="GridCell.Tab.3.left.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="GridCell.Tab.3.center.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="GridCell.Tab.3.right.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="GridCell.Tab.3.bottom.0.0.1920.1080@120dpi" width="1864" height="316" />
+    <size key="CommitChangelistDialog2.0.0.1920.1080@120dpi" width="1763" height="952" />
+    <size key="ProcessPopupWindow.0.0.1920.1080@120dpi" width="500" height="228" />
+    <size key="find.popup.0.0.1920.1080@120dpi" width="1140" height="948" />
+    <size key="javadoc.popup.0.0.1920.1080@120dpi" width="626" height="322" />
+  </component>
+</application>
