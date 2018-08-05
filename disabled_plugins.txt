@@ -1,0 +1,13 @@
+JBoss
+StrutsAssistant
+com.intellij.drools
+com.intellij.jboss.arquillian
+com.intellij.jboss.core
+com.intellij.jbpm
+com.intellij.seam
+com.intellij.seam.pageflow
+com.intellij.seam.pages
+com.intellij.struts2
+com.jetbrains.plugins.asp
+org.coffeescript
+org.jetbrains.android

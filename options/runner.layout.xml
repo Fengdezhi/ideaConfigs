@@ -104,19 +104,11 @@
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
-        <option name="defaultIndex" value="2" />
-        <option name="index" value="2" />
-      </TabImpl>
-      <TabImpl>
-        <option name="bottomProportion" value="0.0" />
-        <option name="defaultIndex" value="3" />
-        <option name="index" value="3" />
-      </TabImpl>
-      <TabImpl>
         <option name="defaultIndex" value="4" />
         <option name="index" value="2" />
       </TabImpl>
       <TabImpl>
+        <option name="bottomProportion" value="0.0" />
         <option name="defaultIndex" value="5" />
         <option name="index" value="3" />
       </TabImpl>

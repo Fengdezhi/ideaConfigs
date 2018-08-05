@@ -2,20 +2,20 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="D:/Work_Program/ideaWorkSpace/my-site" />
-        <option value="D:/Work_Program/ideaWorkSpace/smart-book-code" />
+        <option value="D:/Work_Program/ideaWorkSpace/projects/TestProject" />
+        <option value="D:/Work_Program/ideaWorkSpace/projects/chapter1" />
         <option value="D:/Work_Program/ideaWorkSpace/projects" />
         <option value="D:/Work_Program/ideaWorkSpace" />
-        <option value="D:/Work_Program/ideaWorkSpace/chapter1" />
-        <option value="D:/Work_Program/ideaWorkSpace/TestProject" />
+        <option value="D:/Work_Program/ideaWorkSpace/my-site" />
+        <option value="D:/Work_Program/ideaWorkSpace/smart-book-code" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:/Work_Program/ideaWorkSpace/my-site" />
+        <option value="D:/Work_Program/ideaWorkSpace/projects/TestProject" />
       </list>
     </option>
-    <option name="lastPath" value="D:/Work_Program/ideaWorkSpace/my-site" />
+    <option name="lastPath" value="D:/Work_Program/ideaWorkSpace/projects/TestProject" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -25,8 +25,8 @@
               <option name="build" value="IU-173.4127.27" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1517490331290" />
-              <option name="buildTimestamp" value="1514220698263" />
+              <option name="projectOpenTimestamp" value="1533215456060" />
+              <option name="buildTimestamp" value="1514220687209" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -69,8 +69,8 @@
               <option name="build" value="IU-173.4127.27" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1532834114332" />
-              <option name="buildTimestamp" value="1514220700355" />
+              <option name="projectOpenTimestamp" value="1533214940845" />
+              <option name="buildTimestamp" value="1514220687209" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -80,8 +80,30 @@
               <option name="build" value="IU-173.4127.27" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1517929802112" />
-              <option name="buildTimestamp" value="1514220671025" />
+              <option name="projectOpenTimestamp" value="1533217875757" />
+              <option name="buildTimestamp" value="1514220703168" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Work_Program/ideaWorkSpace/projects/TestProject">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533480872368" />
+              <option name="buildTimestamp" value="1514220667575" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/Work_Program/ideaWorkSpace/projects/chapter1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1533222423263" />
+              <option name="buildTimestamp" value="1514220703168" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

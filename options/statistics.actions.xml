@@ -4,7 +4,8 @@
       <entry action="$Copy" count="1" />
       <entry action="$Delete" count="12" />
       <entry action="$Paste" count="10" />
-      <entry action="$Undo" count="23" />
+      <entry action="$SelectAll" count="1" />
+      <entry action="$Undo" count="24" />
       <entry action="About" count="1" />
       <entry action="AppServers.ChooseArtifacts" count="8" />
       <entry action="AppServers.DebugServer" count="4" />
@@ -14,7 +15,9 @@
       <entry action="CheckinFiles" count="2" />
       <entry action="CheckinProject" count="2" />
       <entry action="CloseAllEditors" count="2" />
-      <entry action="CloseProject" count="3" />
+      <entry action="CloseAllEditorsButActive" count="1" />
+      <entry action="CloseProject" count="4" />
+      <entry action="CodeCompletion" count="3" />
       <entry action="CommentByBlockComment" count="1" />
       <entry action="CommentByLineComment" count="11" />
       <entry action="Compile" count="1" />
@@ -22,21 +25,24 @@
       <entry action="ConfigureIcs" count="1" />
       <entry action="CopyPaths" count="2" />
       <entry action="Editor notification option" count="1" />
-      <entry action="EditorBackSpace" count="505" />
-      <entry action="EditorChooseLookupItem" count="42" />
-      <entry action="EditorCopy" count="42" />
+      <entry action="EditorBackSpace" count="660" />
+      <entry action="EditorChooseLookupItem" count="49" />
+      <entry action="EditorContextInfo" count="8" />
+      <entry action="EditorCopy" count="47" />
       <entry action="EditorCut" count="2" />
       <entry action="EditorDeleteLine" count="33" />
-      <entry action="EditorDown" count="61" />
+      <entry action="EditorDown" count="270" />
+      <entry action="EditorDownWithSelection" count="5" />
       <entry action="EditorDuplicate" count="5" />
-      <entry action="EditorEnter" count="108" />
-      <entry action="EditorLeft" count="57" />
+      <entry action="EditorEnter" count="115" />
+      <entry action="EditorLeft" count="62" />
       <entry action="EditorLineStart" count="1" />
       <entry action="EditorPaste" count="26" />
-      <entry action="EditorRight" count="38" />
-      <entry action="EditorTab" count="28" />
+      <entry action="EditorRight" count="39" />
+      <entry action="EditorScrollDown" count="2" />
+      <entry action="EditorTab" count="30" />
       <entry action="EditorToggleInsertState" count="4" />
-      <entry action="EditorUp" count="16" />
+      <entry action="EditorUp" count="40" />
       <entry action="FileChooser.GotoDesktop" count="1" />
       <entry action="Find" count="6" />
       <entry action="ForceStepInto" count="7" />
@@ -44,9 +50,10 @@
       <entry action="Git.CompareWithBranch" count="4" />
       <entry action="Git.Rebase" count="1" />
       <entry action="Github.Share" count="4" />
-      <entry action="GotoClass" count="11" />
+      <entry action="GotoAction" count="1" />
+      <entry action="GotoClass" count="12" />
       <entry action="GotoDeclaration" count="73" />
-      <entry action="GotoFile" count="3" />
+      <entry action="GotoFile" count="5" />
       <entry action="GotoImplementation" count="6" />
       <entry action="HideAllWindows" count="1" />
       <entry action="HippieCompletion" count="14" />
@@ -58,7 +65,8 @@
       <entry action="MakeModule" count="1" />
       <entry action="ManageRecentProjects" count="1" />
       <entry action="Maven.AddManagedFiles" count="3" />
-      <entry action="MethodDown" count="4" />
+      <entry action="Maven.ShowSettings" count="2" />
+      <entry action="MethodDown" count="7" />
       <entry action="MethodUp" count="4" />
       <entry action="NewClass" count="3" />
       <entry action="NewDir" count="13" />
@@ -66,21 +74,25 @@
       <entry action="NewFile" count="2" />
       <entry action="NewModuleInGroup" count="4" />
       <entry action="NewProject" count="5" />
-      <entry action="OpenFile" count="3" />
+      <entry action="OpenFile" count="5" />
       <entry action="QuickJavaDoc" count="10" />
       <entry action="RenameElement" count="1" />
       <entry action="ReplaceInPath" count="1" />
       <entry action="Rerun" count="4" />
       <entry action="RevealIn" count="1" />
       <entry action="Run" count="6" />
+      <entry action="RunClass" count="1" />
       <entry action="RunToCursor" count="1" />
-      <entry action="SaveAll" count="67" />
+      <entry action="SaveAll" count="82" />
+      <entry action="SearchEverywhere" count="1" />
       <entry action="SelectIn" count="2" />
       <entry action="ShowExecutionPoint" count="3" />
       <entry action="ShowPopupMenu" count="1" />
-      <entry action="ShowProjectStructureSettings" count="5" />
-      <entry action="ShowSettings" count="21" />
+      <entry action="ShowProjectStructureSettings" count="9" />
+      <entry action="ShowSettings" count="30" />
+      <entry action="ShowUmlDiagram" count="1" />
       <entry action="ShowUmlDiagramPopup" count="1" />
+      <entry action="SmartTypeCompletion" count="3" />
       <entry action="StepInto" count="49" />
       <entry action="StepOut" count="5" />
       <entry action="StepOver" count="84" />
@@ -88,8 +100,10 @@
       <entry action="ToggleLineBreakpoint" count="10" />
       <entry action="Unimplement Interface/Class" count="1" />
       <entry action="Vcs.Push" count="1" />
+      <entry action="Vcs.ShowTabbedFileHistory" count="1" />
       <entry action="ViewToolBar" count="1" />
       <entry action="ViewToolButtons" count="1" />
+      <entry action="WebServicesPlugin.CreateRESTClient" count="2" />
     </counts>
   </component>
 </application>
